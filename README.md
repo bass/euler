@@ -1,6 +1,8 @@
 # euler
 
-"Project Euler" solutions in C -- https://projecteuler.net
+"Project Euler" solutions in C
+
+Visit https://projecteuler.net for more information
 
 Solutions to problems: 1, 2, 4, 5, 6, 7
 
