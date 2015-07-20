@@ -1,6 +1,13 @@
+/* alex $ ./prob1
+   233168
+   real 0m0.007s
+   user 0m0.003s
+   sys  0m0.003s */
+
 #include <stdio.h>
 
-int main (void) {
+int main (void) 
+{
 	int u, v, w, sum = 0, sub = 0;
 
 	for ( u = 3; u < 1000; u += 3 )		

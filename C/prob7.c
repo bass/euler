@@ -1,3 +1,9 @@
+/* alex $ ./prob7
+   104743
+   real 0m2.361s
+   user 0m2.171s
+   sys  0m0.007s */
+
 #include <stdio.h>
 
 int main (void)
