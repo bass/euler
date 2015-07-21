@@ -1,15 +1,16 @@
-/* alex $ ./problem10
+/* alex$ time ./problem10
    142913828922
-   real 0m0.148s
-   user 0m0.132s
-   sys  0m0.009s */
+   real 0m0.079s
+   user 0m0.064s
+   sys  0m0.001s */
 
 #include <stdio.h>
 
 int main (void)
 {
-	int n = 2000000, i, P[n];
-	
+	int n = 2000000, i;
+	_Bool P[n];	
+
 	for ( i = 0; i < n; ++i ) 
 	{
 		P[i] = 1;
